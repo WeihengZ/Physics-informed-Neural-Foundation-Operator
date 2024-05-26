@@ -2,7 +2,7 @@ This is the Github repository of Physics-informed Deep Compositional Operator Ne
 
 # PI-DCON
 
-This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [paper link](https://arxiv.org/pdf/2404.13646)
+This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [paper link](https://arxiv.org/html/2404.13646v1)
 
 ![Example GIF](images/darcy_dcon.gif)
 
