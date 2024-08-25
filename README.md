@@ -9,10 +9,13 @@ This model can infer the solutions of partial differential equations (PDEs) with
 If you find our work beneficial for your research, please consider citing our paper in your manuscript:
 ```
 @article{zhong2024physics,
-  title={Physics-informed Mesh-independent Deep Compositional Operator Network},
+  title={Physics-informed discretization-independent deep compositional operator network},
   author={Zhong, Weiheng and Meidani, Hadi},
-  journal={arXiv preprint arXiv:2404.13646},
-  year={2024}
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={431},
+  pages={117274},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
