@@ -4,6 +4,7 @@ This Github repository will provide the latest updates on our works for developi
 
 | Model name | data-free | discretization independent | domain geometry independent| dynamic problem |
 | -------- | -------- | ------- | ------- |
+| PI baselines| &checkmark | - [ ] | - [x] | - [x] |
 | PI-DCON | &checkmark | - [ ] | - [x] | - [x] |
 | PI-GANO | - [ ] | - [ ] | - [ ] | - [x] |
 
