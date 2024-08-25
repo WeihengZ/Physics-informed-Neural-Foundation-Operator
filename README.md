@@ -2,18 +2,7 @@
 
 This Github repository will provide the latest updates on our works for developing **Physics-informed Neural Operators as Foundation Models**, which covers the methodology for developing neural operators that can generalize to any PDE problem settings (e.g. PDE parameters, domain geometries, initial and boundary conditions, time), without any FEM computation. The summary of our existing works are summarized as:
 
---------------------------------------------------------------------------------------------------------> Higher generalization
-
-| Model name | data-free | discretization independent | domain geometry independent| dynamic problem |
-
-| -------- | -------- | ------- | ------- |
-
-| PI baselines| &checkmark | - [ ] | - [x] | - [x] |
-
-| PI-DCON | &checkmark | - [ ] | - [x] | - [x] |
-
-| PI-GANO | - [ ] | - [ ] | - [ ] | - [x] |
-
+![png](images/model_comparison.png)
 
 ## PI-DCON
 
@@ -22,8 +11,8 @@ This model can infer the solutions of partial differential equations (PDEs) with
 ![Example GIF](images/darcy_dcon.gif)
 
 This work had been:
-  - [ ] accepted and presented in Engineering Mechanics Institute Conference (EMI)
-  - [ ] Accepted by Journal: Computer Methods in Applied Mechanics and Engineering
+  - [x] accepted and presented in Engineering Mechanics Institute Conference (EMI)
+  - [x] Accepted by Journal: Computer Methods in Applied Mechanics and Engineering
 
 If you find our work beneficial for your research, please consider citing our paper in your manuscript:
 ```
@@ -47,8 +36,8 @@ The codes of the paper will be released soon.
 ![Example GIF](images/plate_gano.gif)
 
 This work had been:
-  - [ ] accepted and presented in Engineering Mechanics Institute Conference (EMI)
-  - [ ] Under review
+  - [x] accepted and presented in Engineering Mechanics Institute Conference (EMI)
+  - [x] Under review
 
 If you find our work beneficial for your research, please consider citing our paper in your manuscript:
 ```
