@@ -6,7 +6,7 @@ This Github repository will provide the latest updates on our works for developi
 
 ## PI-DCON
 
-This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [paper link](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [Codes link](https://github.com/WeihengZ/PI-DCON)
+This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-DCON)
 
 ![Example GIF](images/darcy_dcon.gif)
 
@@ -29,7 +29,7 @@ If you find our work beneficial for your research, please consider citing our pa
 
 ## PI-GANO
 
-Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [paper link](https://arxiv.org/html/2408.01600v1)
+Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://arxiv.org/html/2408.01600v1)
 
 The codes of the paper will be released soon.
 
