@@ -6,7 +6,7 @@ This Github repository will provide the latest updates on our works for developi
 
 ## PI-DCON
 
-This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-DCON)
+Physics-informed deep compositional operator network: This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-DCON)
 
 ![Example GIF](images/darcy_dcon.gif)
 
