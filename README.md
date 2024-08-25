@@ -1,11 +1,10 @@
 # Physics-informed Neural Foundation Operator
 
-This Github repository will provide the latest updates on our works for developing **Physics-informed Neural Operators as Foundation Models**, which covers the methodology for developing neural operators that can generalize to any PDE problem settings (e.g. PDE parameters, domain geometries, initial and boundary conditions, time), without any FEM computation. 
+This Github repository will provide the latest updates on our works for developing **Physics-informed Neural Operators as Foundation Models**, which covers the methodology for developing neural operators that can generalize to any PDE problem settings (e.g. PDE parameters, domain geometries, initial and boundary conditions, time), without any FEM computation. The summary of our existing works are summarized as:
 
-The summary of our existing works are summarized as:
 | Model name | data-free | discretization independent | domain geometry independent| dynamic problem |
 | -------- | -------- | ------- | ------- |
-| PI-DCON | - [ ] | - [ ] | - [x] | - [x] |
+| PI-DCON | &checkmark | - [ ] | - [x] | - [x] |
 | PI-GANO | - [ ] | - [ ] | - [ ] | - [x] |
 
 
