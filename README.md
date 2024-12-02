@@ -6,7 +6,7 @@ This Github repository will provide the latest updates on our works for developi
 
 ## PI-DCON
 
-Physics-informed deep compositional operator network: This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2404.13646v1) [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-GANO)
+Physics-informed deep compositional operator network: This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2404.13646v1) [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-DCON)
 
 ![Example GIF](images/darcy_dcon.gif)
 
@@ -29,7 +29,7 @@ If you find our work beneficial for your research, please consider citing our pa
 
 ## PI-GANO
 
-Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2408.01600v1) [[paper link]](https://www.sciencedirect.com/science/article/pii/S0045782524007941?via%3Dihub) [[Codes link]]()
+Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2408.01600v1) [[paper link]](https://www.sciencedirect.com/science/article/pii/S0045782524007941?via%3Dihub) [[Codes link]](https://github.com/WeihengZ/PI-GANO)
 
 The codes of the paper will be released soon.
 
