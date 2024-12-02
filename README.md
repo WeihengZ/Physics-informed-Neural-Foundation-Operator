@@ -6,7 +6,7 @@ This Github repository will provide the latest updates on our works for developi
 
 ## PI-DCON
 
-Physics-informed deep compositional operator network: This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-DCON)
+Physics-informed deep compositional operator network: This model can infer the solutions of partial differential equations (PDEs) with varying parameters in irregular geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2404.13646v1) [[paper link]](https://www.sciencedirect.com/science/article/abs/pii/S0045782524005309) [[Codes link]](https://github.com/WeihengZ/PI-GANO)
 
 ![Example GIF](images/darcy_dcon.gif)
 
@@ -29,7 +29,7 @@ If you find our work beneficial for your research, please consider citing our pa
 
 ## PI-GANO
 
-Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [[paper link]](https://arxiv.org/html/2408.01600v1)
+Physics-informed Geometry-aware Neural Operator: This model can infer the solutions of partial differential equations (PDEs) with varying arbitary domain geometries, purely trained in physics-informed manner wihtout any FEM computation. [[Arxiv link]](https://arxiv.org/html/2408.01600v1) [[paper link]](https://www.sciencedirect.com/science/article/pii/S0045782524007941?via%3Dihub) [[Codes link]]()
 
 The codes of the paper will be released soon.
 
@@ -37,15 +37,18 @@ The codes of the paper will be released soon.
 
 This work had been:
   - [x] accepted and presented in Engineering Mechanics Institute Conference (EMI)
-  - [x] Under review
+  - [x] Accepted by Journal: Computer Methods in Applied Mechanics and Engineering
 
 If you find our work beneficial for your research, please consider citing our paper in your manuscript:
 ```
-@article{zhong2024physics,
+@article{zhong2025physics,
   title={Physics-Informed Geometry-Aware Neural Operator},
   author={Zhong, Weiheng and Meidani, Hadi},
-  journal={arXiv preprint arXiv:2408.01600},
-  year={2024}
+  journal={Computer Methods in Applied Mechanics and Engineering},
+  volume={434},
+  pages={117540},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
